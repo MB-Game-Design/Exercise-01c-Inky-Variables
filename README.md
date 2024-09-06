@@ -2,8 +2,8 @@
 
 My name is:
 
-[Your Name]
+Max Bailey
 
 My github username is:
 
-[Your Username]
+MBGameDesign
